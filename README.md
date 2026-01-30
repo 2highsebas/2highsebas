@@ -3,12 +3,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
 </p>
-
-<p align="center">
-  <strong>Building real systems at the intersection of software, hardware, and AI</strong><br/>
-  <sub>Full-stack • Embedded Systems • Databases • LLMs</sub>
-</p>
-
 ---
 
 ## About Me
