@@ -43,7 +43,7 @@ I thrive in builder-first environments where ideas turn into shipped features qu
 ---
 
 ## Current Focus
-- 🤖 Building a personal assistant using Arduino, LCD displays, and local LLMs  
+- 🤖 Building a personal assistant using rasberypi 5, LCD displays, and local LLMs  
 - 🗄️ Database schema design & PostgreSQL work with IEEE Software Committee  
 - 📟 Embedded UI experiments (signal visualization, animations, system feedback)
 
